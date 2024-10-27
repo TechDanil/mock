@@ -1,0 +1,1 @@
+export { default as MapDetails } from './ui/mapDetails/MapDetails'
